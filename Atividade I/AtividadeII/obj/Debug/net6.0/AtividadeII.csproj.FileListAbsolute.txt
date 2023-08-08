@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\bin\Debug\net6.0\AtividadeII.exe
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\bin\Debug\net6.0\AtividadeII.deps.json
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\bin\Debug\net6.0\AtividadeII.runtimeconfig.json
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\bin\Debug\net6.0\AtividadeII.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\bin\Debug\net6.0\AtividadeII.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\refint\AtividadeII.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\AtividadeII.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Woman Dev\Introdução\Atividade I\AtividadeII\obj\Debug\net6.0\ref\AtividadeII.dll
